@@ -1,0 +1,62 @@
+[33mcommit ef06a74e7d1141d89de329f5c36ba3e1a70f0dfe[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Rishika Konda <rishika_konda@epam.com>
+Date:   Fri Jul 19 10:08:33 2024 +0530
+
+    added text
+
+[33mcommit d9d10cc8dee86fdac962394bde1b78a8d6dc7c7e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rishika Konda <rishika_konda@epam.com>
+Date:   Fri Jul 19 10:04:42 2024 +0530
+
+    added konda
+
+[33mcommit f5afaf624c479179dbdde6855e4fc4e209212443[m
+Author: rishika05-code <rishika_konda@epam.com>
+Date:   Fri Jul 19 09:58:44 2024 +0530
+
+    added
+
+[33mcommit e8e8466667cbc5acf7fa6a8f54a5c0f7afc992d2[m
+Merge: 7e79735 bd8989b
+Author: Rishika Konda <rishika_konda@epam.com>
+Date:   Fri Jul 19 09:57:32 2024 +0530
+
+    conflicts resolved
+
+[33mcommit bd8989bf0a5a45ffd5ae97e00bfcc3cafffdc83e[m
+Author: rishika05-code <rishika_konda@epam.com>
+Date:   Fri Jul 19 09:54:46 2024 +0530
+
+    added hyd
+
+[33mcommit 7e79735d6bdb129b0d0fb84752ffeb224ac87aad[m
+Author: Rishika Konda <rishika_konda@epam.com>
+Date:   Fri Jul 19 09:53:04 2024 +0530
+
+    added
+
+[33mcommit a9e427b0dc47a3be2b876fde9e0b09c726dcd160[m
+Author: rishika05-code <rishika_konda@epam.com>
+Date:   Thu Jul 18 21:28:51 2024 +0530
+
+    Update r.txt
+    
+    added
+
+[33mcommit 85bbc661bb84a32daee88a5f097dac59f435d570[m
+Author: rishika05-code <rishika_konda@epam.com>
+Date:   Thu Jul 18 18:05:59 2024 +0530
+
+    hey i have edited this
+
+[33mcommit 26f9e143c2e413afbc775f633465dd54a75f8781[m
+Author: Rishika Konda <rishika_konda@epam.com>
+Date:   Thu Jul 18 18:01:34 2024 +0530
+
+    this is my new file
+
+[33mcommit 6de9cf39822724a9007107314a3cef2e5c07016c[m
+Author: rishika05-code <rishika_konda@epam.com>
+Date:   Thu Jul 18 17:33:50 2024 +0530
+
+    Initial commit
